@@ -40,7 +40,6 @@ end
 group :test do
   gem 'rspec'
   gem 'rspec-rails'
-	gem "webrat", "~> 0.7.3"
   gem 'cucumber-rails'
   gem 'database_cleaner'
 end
